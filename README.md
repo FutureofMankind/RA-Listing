@@ -1,8 +1,10 @@
 Список предложений
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/krn6w1gadl9hfjlr/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-listing/branch/main)
+
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
-![Список предложений](./assets/preview.png)
+![Список предложений](pic/preview.png)
 
 ## Данные списка предложений
 
